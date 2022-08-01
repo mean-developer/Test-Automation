@@ -417,7 +417,7 @@ if(flag==false)
 import org.apache.jmeter.services.FileServer;
 
 // Define the report file name
-String fileName = &quot;${__TestPlanName}&quot; + &quot;-error-report.txt&quot;; //.replace(&quot;.jmx&quot;,&quot;&quot;)
+String fileName = &quot;${__TestPlanName}&quot; + &quot;-error-result.txt&quot;; //.replace(&quot;.jmx&quot;,&quot;&quot;)
  
 //get path of current jmeter&apos;s script
 String path = FileServer.getFileServer().getBaseDir();

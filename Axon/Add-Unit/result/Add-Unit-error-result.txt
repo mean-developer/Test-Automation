@@ -1,0 +1,22 @@
+Failed Test Cases Are :-
+AC-8,  Error_Comment :-  The Request Fail Due To Invalid unit code.***Unit Code Accepting only Alphabates ***
+AC-9,  Error_Comment :-  The Request Fail Due To Invalid unit code.***Unit Code Accepting only Numbers ***
+AC-13,  Error_Comment :-  The Request Fail due to invalid unitCode.***unitCode not exceed morethan 7 characters***
+AC-15,  Error_Comment :-  The Request Fail due to invalid unitCode.***unitCode contain space***
+AC-18,  Error_Comment :-  The Request Fail due to invalid contactPerson.***contactPerson Contains alphanumeric value***
+AC-19,  Error_Comment :-  The Request Fail due to invalid contactPerson.***contactPerson Contains numeric value***
+AC-21,  Error_Comment :-  The Request Fail due to invalid contactPerson.***contactPerson should be min 3 characters***
+AC-22,  Error_Comment :-  The Request Fail due to invalid contactPerson.***contactPerson should not exceed morethan 15 characters***
+AC-23,  Error_Comment :-  The Request Fail due to invalid contactPerson.***contactPerson contains special characters***
+AC-26,  Error_Comment :-  The Request Fail due to invalid phoneNumber.***phoneNumber contains alphabets***
+AC-27,  Error_Comment :-  The Request Fail due to invalid phoneNumber.***phoneNumber contains alphanumeric value***
+AC-30,  Error_Comment :-  The Request Fail due to invalid phoneNumber.***phoneNumber must be Equal to 10 numbers***
+AC-31,  Error_Comment :-  The Request Fail due to invalid phoneNumber.***phoneNumber must be equal to  10 numbers***
+AC-32,  Error_Comment :-  The Request Fail due to invalid phoneNumber.***phoneNumber contains special characters***
+AC-33,  Error_Comment :-  The Request Fail due to invalid phoneNumber.***phoneNumber contain space***
+AC-37,  Error_Comment :-  The request Fail due to invalid email.***email must contain (.) operator***
+AC-38,  Error_Comment :-   The request Fail due to invalid email.***email must contain @***
+AC-39,  Error_Comment :-  The request Fail due to invalid email.***email must include @ and . ***
+AC-40,  Error_Comment :-  The Request Fail due to invalid email.***email must not be empty ***
+AC-45,  Error_Comment :-  The Request Fail due to invalid address.***address should be min 3 characters***
+AC-49,  Error_Comment :-  The Request Fail due to invalid address.***address should be min 3 characters***
