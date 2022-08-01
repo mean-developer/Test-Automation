@@ -52,5 +52,5 @@ AC-49,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,12,FAIL,400,,YES,READINESS
 AC-50,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,1234567,FAIL,400,,YES,READINESS,Error_Comment :-  The Request Fail Due To Invalid Pincode. *** Pincode Accepting More Than 20  Charecters***
 AC-51,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,1@#$%,FAIL,400,,YES,READINESS,Error_Comment :-  The Request Fail Due To Invalid Pincode. *** Pincode Accepting Special Characters***
 AC-52,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,123 45,FAIL,400,,YES,READINESS,Error_Comment :-  The Request Fail Due To Invalid Pincode. *** Pincode Accepting Space***
-AC-53,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,123 45,FAIL,400,,YES,READINESS,Error_Comment :-  The Request Fail Due To Invalid Pincode. *** Pincode Accepting Space*
+
 
