@@ -447,7 +447,7 @@ vars.put(&quot;resultFileName&quot;, resultFileName);
         </BeanShellSampler>
         <hashTree/>
         <IncludeController guiclass="IncludeControllerGui" testclass="IncludeController" testname="[IC] Login" enabled="true">
-          <stringProp name="IncludeController.includepath">C:\bijib-AT\Axon\Login\scripts\instant-token.jmx</stringProp>
+          <stringProp name="IncludeController.includepath">C:\Test-Automation\Axon\Login\scripts\instant-token.jmx</stringProp>
         </IncludeController>
         <hashTree/>
         <LoopController guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
