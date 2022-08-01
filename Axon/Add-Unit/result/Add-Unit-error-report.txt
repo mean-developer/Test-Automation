@@ -1,0 +1,51 @@
+Failed Test Cases Are :-
+AC-0,  Error_Comment :-  Record added successfully
+AC-1,  Error_Comment :-The Request fail due to Invalid Unit Name.***Unit Name Not Accepting Unique Name***
+AC-2,  Error_Comment :- The Request Fail due to invalid unitName.***unitName Accepting Numeric  Values***
+AC-3,  Error_Comment :-   The Request Fail due to invalid unitName.***unitName Accepting  alphanumeric Value***
+AC-4,  Error_Comment :-  The Request Fail due to invalid unitName.***unitName should be min 3 characters***
+AC-5,  Error_Comment :- The Request Fail due to invalid unitName.***unitName Accepting More Than 20  Charecters***
+AC-6,  Error_Comment :-   The Request Fail due to invalid unitName.***unitName Accepting special characters***
+AC-7,  Error_Comment :-  The Request Fail due to invalid unitName.***unitName Accepting empty value***
+AC-8,  Error_Comment :-  The Request Fail Due To Invalid unit code.***Unit Code Accepting only Alphabates ***
+AC-9,  Error_Comment :-  The Request Fail Due To Invalid unit code.***Unit Code Accepting only Numbers ***
+AC-10,  Error_Comment :-  Record added successfully
+AC-11,  Error_Comment :-  Record added successfully
+AC-12,  Error_Comment :-  The Request Fail due to invalid unitCode.***unitCode should be min 3 characters***
+AC-13,  Error_Comment :-  The Request Fail due to invalid unitCode.***unitCode not exceed morethan 7 characters***
+AC-14,  Error_Comment :-  The Request Fail due to invalid unitCode.***unitCode contains special characters***
+AC-15,  Error_Comment :-  The Request Fail due to invalid unitCode.***unitCode contain space***
+AC-16,  Error_Comment :-  The Request Fail due to invalid unitCode.***unitCode is empty***
+AC-17,  Error_Comment :-  Record added successfully
+AC-18,  Error_Comment :-  The Request Fail due to invalid contactPerson.***contactPerson Contains alphanumeric value***
+AC-19,  Error_Comment :-  The Request Fail due to invalid contactPerson.***contactPerson Contains numeric value***
+AC-20,  Error_Comment :- Record added successfully
+AC-21,  Error_Comment :-  The Request Fail due to invalid contactPerson.***contactPerson should be min 3 characters***
+AC-22,  Error_Comment :-  The Request Fail due to invalid contactPerson.***contactPerson should not exceed morethan 15 characters***
+AC-23,  Error_Comment :-  The Request Fail due to invalid contactPerson.***contactPerson contains special characters***
+AC-24,  Error_Comment :-  Record added successfully
+AC-25,  Error_Comment :-  Record added successfully
+AC-26,  Error_Comment :-  The Request Fail due to invalid phoneNumber.***phoneNumber contains alphabets***
+AC-27,  Error_Comment :-  The Request Fail due to invalid phoneNumber.***phoneNumber contains alphanumeric value***
+AC-28,  Error_Comment :- Record added successfully
+AC-29,  Error_Comment :- Record added successfully
+AC-30,  Error_Comment :-  The Request Fail due to invalid phoneNumber.***phoneNumber must be Equal to 10 numbers***
+AC-31,  Error_Comment :-  The Request Fail due to invalid phoneNumber.***phoneNumber must be equal to  10 numbers***
+AC-32,  Error_Comment :-  The Request Fail due to invalid phoneNumber.***phoneNumber contains special characters***
+AC-33,  Error_Comment :-  The Request Fail due to invalid phoneNumber.***phoneNumber contain space***
+AC-34,  Error_Comment :-  Record added successfully
+AC-35,  Error_Comment :-  Record added successfully
+AC-36,  Error_Comment :- Record added successfully
+AC-37,  Error_Comment :-  The request Fail due to invalid email.***email must contain (.) operator***
+AC-38,  Error_Comment :-   The request Fail due to invalid email.***email must contain @***
+AC-39,  Error_Comment :-  The request Fail due to invalid email.***email must include @ and . ***
+AC-40,  Error_Comment :-  The Request Fail due to invalid email.***email must not be empty ***
+AC-41,  Error_Comment :-  Record added successfully
+AC-42,  Error_Comment :-  Record added successfully
+AC-43,  Error_Comment :-  Record added successfully
+AC-44,  Error_Comment :- Record added successfully
+AC-45,  Error_Comment :-  The Request Fail due to invalid address.***address should be min 3 characters***
+AC-46,  Error_Comment :-  Record added successfully
+AC-47,  Error_Comment :- Record added successfully
+AC-48,  Error_Comment :- Record added successfully
+AC-49,  Error_Comment :-  The Request Fail due to invalid address.***address should be min 3 characters***
