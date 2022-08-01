@@ -48,3 +48,4 @@ AC-45,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,Mn,FAIL,400,,YES,READINESS
 AC-46,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,Bijib1234!@#$%^&*_-=-*/+?,PASS,200,Record added successfully,YES,READINESS,Error_Comment :-  Record added successfully
 AC-47,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,Bijib 1234  !@#$%^&*,PASS,200,Record added successfully,YES,READINESS,Error_Comment :- Record added successfully
 AC-48,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,,PASS,200,Record added successfully,YES,READINESS,Error_Comment :- Record added successfully
+AC-49,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,AUTOGEN,Mn,FAIL,400,,YES,READINESS,Error_Comment :-  The Request Fail due to invalid address.***address should be min 3 characters***
